@@ -1,4 +1,3 @@
-
 import Navbar from "@/components/Navbar";
 import { ArrowRight, Camera, Film, ImageIcon, Settings } from "lucide-react";
 
@@ -15,7 +14,7 @@ const Index = () => {
               <span className="inline-block px-4 py-1 bg-sage-100 text-sage-700 rounded-full text-sm font-medium">
                 Vidéaste Freelance
               </span>
-              <h1 className="font-playfair text-4xl md:text-5xl lg:text-6xl font-bold text-natural-900 leading-tight">
+              <h1 className="font-gilda text-4xl md:text-5xl lg:text-6xl text-natural-900 leading-tight">
                 Capturons ensemble vos moments <span className="text-coral-500">précieux</span>
               </h1>
               <p className="text-natural-600 text-lg md:text-xl leading-relaxed font-inter">
