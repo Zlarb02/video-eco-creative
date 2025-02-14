@@ -1,4 +1,3 @@
-
 import type { Config } from "tailwindcss";
 
 export default {
@@ -49,16 +48,16 @@ export default {
           900: "#304F0B",
         },
         coral: {
-          50: "#FFF3F0",
-          100: "#FFE4DE",
-          200: "#FFC5B8",
-          300: "#FF9F8A",
-          400: "#FF7557",
-          500: "#FF4D25",
-          600: "#FF2600",
-          700: "#CC1E00",
-          800: "#991700",
-          900: "#661000",
+          50: "#FEF6F1",
+          100: "#FDE9E1",
+          200: "#FBD3C3",
+          300: "#F9BDA5",
+          400: "#F7A787",
+          500: "#F59169",
+          600: "#F37A4B",
+          700: "#F1642D",
+          800: "#EF4E0F",
+          900: "#D03E06",
         },
         primary: {
           DEFAULT: "hsl(var(--primary))",

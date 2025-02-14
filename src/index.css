@@ -15,6 +15,12 @@
 
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    @apply tracking-tight;
+  }
+
+  h1 {
+    @apply font-medium;
   }
 
   ::selection {
